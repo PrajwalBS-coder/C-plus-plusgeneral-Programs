@@ -1,0 +1,50 @@
+What is C++?
+What is the difference between C and C++?
+What are the various data types in C++?
+What is object-oriented programming?
+What are the four fundamental concepts of OOP?
+What is the difference between private and protected access modifiers?
+What is a virtual function?
+What is the difference between function overloading and function overriding?
+What are the different types of inheritance?
+What is a constructor?
+What is a destructor?
+What is a copy constructor?
+What is a default constructor?
+What is a friend function?
+What is a static member function?
+What is a virtual destructor?
+What is the difference between a structure and a class?
+What is a namespace?
+What is a template in C++?
+What is a function template?
+What is a class template?
+What is the STL?
+What is a container in the STL?
+What is an iterator in the STL?
+What is a vector in the STL?
+What is a map in the STL?
+What is a set in the STL?
+What is the difference between a vector and an array?
+What is a pointer?
+What is a reference variable?
+What is dynamic memory allocation?
+What is new and delete operator?
+What is exception handling in C++?
+What is a try-catch block?
+What is the difference between a stack and a queue?
+What is the difference between pass by value and pass by reference?
+What is a lambda expression?
+What is a smart pointer?
+What is a shared_ptr?
+What is a unique_ptr?
+What is a weak_ptr?
+What is the difference between a unique_ptr and a shared_ptr?
+What is a move constructor?
+What is move semantics?
+What is the difference between a deep copy and a shallow copy?
+What is the Big-O notation?
+What is the difference between a linked list and an array?
+What is a binary search tree?
+What is a heap?
+What is a hash table?
